@@ -6,7 +6,7 @@
  '(ansi-color-faces-vector
    [default default default italic underline success warning error])
  '(company-idle-delay 0.1)
- '(company-minimum-prefix-length 2)
+ '(company-minimum-prefix-length 1)
  '(compilation-message-face (quote default))
  '(custom-enabled-themes (quote (spacemacs-dark)))
  '(custom-safe-themes
