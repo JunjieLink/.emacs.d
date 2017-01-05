@@ -12,4 +12,6 @@
 ;; 文本高亮
 (setq org-src-fontify-natively t)
 
+(setq org-hide-leading-stars t)
+
 (provide 'init-org)
